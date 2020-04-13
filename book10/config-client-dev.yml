@@ -1,5 +1,1 @@
-
-server:
-  port: 8769
-
 foo: foo version 2
